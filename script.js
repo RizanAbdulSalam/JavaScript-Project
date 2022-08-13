@@ -47,6 +47,8 @@ button.addEventListener("click", () => {
 
 })
 
+// Ascending Order
+
 const buttonTwo = document.querySelector(".sorttwo-btn");
 
 buttonTwo.addEventListener("click", () => {

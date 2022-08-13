@@ -38,7 +38,7 @@ function coursesList(){
 }
 
 
-
+// Descending Order
 const button = document.querySelector(".sort-btn");
 
 button.addEventListener("click", () => {
